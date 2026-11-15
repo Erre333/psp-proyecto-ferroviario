@@ -1,0 +1,19 @@
+PROYECTO FERROVIARIO - ATRIBUCION Y LICENCIA
+
+Codigo base docente: Enrique Niclos Camarasa, IES Lluis Simarro.
+Material facilitado en Aules para el modulo Programacion de Servicios y Procesos.
+Base de partida: TREN_v10_Compra1Bitllet / TREN_v10_Esquelet.
+
+Adaptacion para las versiones 1.1 y 2.1: Radoslav Radoslavov Atanasov.
+Fecha de preparacion: 15 de noviembre de 2026.
+
+El enunciado original indica las condiciones Reconocimiento - NoComercial -
+CompartirIgual (BY-NC-SA). Estas adaptaciones mantienen esas condiciones:
+reconocer la autoria original, no realizar uso comercial y distribuir las
+obras derivadas con una licencia igual a la del material original.
+El enunciado no especifica una version numerica de la licencia.
+
+Las modificaciones consisten en implementar la compra y el pago de un billete
+(v1.1), y en anadir compradores concurrentes, sincronizacion del teclado y
+reserva atomica de asientos (v2.1). La estructura de gestion del codigo docente
+se conserva.

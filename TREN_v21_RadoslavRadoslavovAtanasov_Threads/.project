@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+ <name>TREN_v21_RadoslavRadoslavovAtanasov_Threads</name>
+ <comment>Versión 2.1: compra concurrente con hilos y reserva atómica.</comment>
+ <projects/>
+ <buildSpec><buildCommand><name>org.eclipse.jdt.core.javabuilder</name><arguments/></buildCommand></buildSpec>
+ <natures><nature>org.eclipse.jdt.core.javanature</nature></natures>
+</projectDescription>
